@@ -1,6 +1,6 @@
 {
     "name": "svg0510/swaggerclient-php",
-    "description": "",
+    "description": "swagger client for weather api",
     "keywords": [
         "swagger",
         "php",
