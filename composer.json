@@ -1,5 +1,6 @@
 {
     "name": "svg0510/swaggerclient-php",
+    "type": "library",
     "description": "swagger client for weather api",
     "keywords": [
         "swagger",
